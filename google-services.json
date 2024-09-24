@@ -1,0 +1,29 @@
+{
+  "project_info": {
+    "project_number": "1016048620648",
+    "project_id": "techmobilearn",
+    "storage_bucket": "techmobilearn.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:1016048620648:android:4722b3760d41a284afd7dd",
+        "android_client_info": {
+          "package_name": "com.TechMobiLearn.codebox"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyC2PS4zDhQp3TjiLAH0k2F6TN5GJ7Diw64"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
